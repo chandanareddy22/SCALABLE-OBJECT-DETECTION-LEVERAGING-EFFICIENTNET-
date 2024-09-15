@@ -1,6 +1,3 @@
-Here is the `README.md` section in code format:
-
-```markdown
 # Scalable Object Detection Leveraging EfficientNet
 
 This repository contains the implementation of a scalable object detection system using **EfficientNet** as the backbone. The goal of this project is to improve object detection performance while maintaining high efficiency and scalability across various computational environments.
@@ -75,6 +72,3 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or su
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can directly copy and paste this into your `README.md` file.
